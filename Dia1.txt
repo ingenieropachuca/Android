@@ -1,0 +1,14 @@
+1.-Programa Conjunto de instrucciones ordenadas que trabajan con datos para resolver problemas 
+
+Variable: ZONA DE MEMORIA DONDE SE ALMACENA UN DATO
+INT CUANTA MEMORIA BYTES
+numero NOMBRE DE LA VARIABLE
+
+char letra ="A";
+
+
+ARRAYS O ARREGLOS 
+int paginas[] = new int[6];
+6 variables de tipo entero 
+
+String es un array de caracteres
