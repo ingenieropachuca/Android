@@ -12,3 +12,13 @@ int paginas[] = new int[6];
 6 variables de tipo entero 
 
 String es un array de caracteres
+
+
+Array de Arrays
+
+null variable reservada que no tiene informacion 
+
+
+Para heredar clases es con extends 
+class Lujo extends Tren{
+}

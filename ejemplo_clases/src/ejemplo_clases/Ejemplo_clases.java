@@ -1,22 +1,16 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package ejemplo_clases;
 import ejemplo_clases.Tren;
 
-/**
- *
- * @author Carlos
- */
-public class Ejemplo_clases {
 
-    /**
-     * @param args the command line arguments
-     */
+public class Ejemplo_clases {
     public static void main(String[] args) {
-        // TODO code application logic here
+        Tren primero= new Tren();
+        Tren segundo= new Tren("juan",3);
+        
+        System.out.println(segundo.maquinista);
+        primero.maquinista="roberto";
+     
     }
     
 }
