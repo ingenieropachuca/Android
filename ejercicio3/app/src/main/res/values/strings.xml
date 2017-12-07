@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ejercicio3</string>
+    <string name="action_settings">Configuracion</string>
+    <string name="action_two">Ventana Intents</string>
+    <string name="menu_one">Opcion 1</string>
+    <string name="menu_two">Opcion 2</string>
+    <string name="menu_tree">Opcion 3</string>
+    <string name="title_activity_second">SecondActivity</string>
+</resources>

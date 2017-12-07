@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Contactos</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_one">Llamar</string>
+    <string name="menu_two">Escribir Email</string>
+    <string name="menu_tree">Editar</string>
+    <string name="menu_four">Mensaje</string>
+</resources>

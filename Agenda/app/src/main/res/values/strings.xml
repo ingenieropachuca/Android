@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Agenda</string>
+    <string name="action_settings">Preferencias</string>
+    <string name="action_exit">Salir</string>
+    <string name="menu_one">Llamar</string>
+    <string name="menu_two">Escribir Email</string>
+    <string name="menu_tree">Editar</string>
+    <string name="menu_four">Mensaje</string>
+</resources>
